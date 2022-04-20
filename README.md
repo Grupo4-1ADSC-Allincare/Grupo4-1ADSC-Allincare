@@ -38,3 +38,6 @@ Fazer com que a porcentagem de imunizados aumente e que os números de perda de 
 - **Lucas Penalva** - [lucasp-franca](https://github.com/lucasp-franca)
 - **Maryanna Silva** - [maryssilva](https://github.com/maryssilva)
 - **Vinicius Santos** - [rvinniss](https://github.com/rvinniss)
+
+## Entre em contato
+<a href="https://www.instagram.com/kauanmendess_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
