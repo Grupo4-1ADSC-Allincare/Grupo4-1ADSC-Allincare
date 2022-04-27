@@ -6,7 +6,7 @@
       height="106"
     />
 </p>
-<p align="center">Um sistema para gerenciar a temperatura de vacinas no transporte. </p>
+<p align="center">Um sistema para gerenciar a temperatura de vacinas no transporte.</p>
 
 
 ## Objetivo do Projeto
